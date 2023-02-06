@@ -1,0 +1,39 @@
+#milan{
+    position: fixed;
+    height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: rgba(128, 128, 128, 0.64);
+}
+img{
+    cursor: pointer;
+}
+.hero{
+    position:absolute;
+    height: 4rem;
+    width: 4rem;
+    top: 2rem;
+    right: 3rem;
+}
+.hero1{
+    height: 5rem;
+    width: 5rem;
+    position: absolute;
+    left: 2.5rem ;
+}
+.hero2{
+    position: absolute;
+    height: 4.7rem;
+    width: 4.7rem;
+    right: 3rem;
+ }
+.k{
+    max-width:80vw ;
+    max-height: 95vh;
+}
